@@ -327,6 +327,8 @@ to you at the moment, but is unimportant until later.
 
 // The array type
 
+// * EXTRA: THE PRINTLN! MACRO AND THE ANATOMY OF A RUST PROGRAM
+
 // * PART 6: CONTROLL FLOW AND THE MATCH STATEMENT
 
 // * PART 7: FUNCTIONS
